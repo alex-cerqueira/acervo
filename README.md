@@ -1,5 +1,7 @@
 # Acervo UX — Governança de pesquisa
 
+![Acervo — Governança de pesquisa](docs/images/acervo.svg)
+
 Plataforma de Alex Cerqueira para catalogar pesquisas de UX/UI, organizar evidências pelo contexto do negócio e gerar insights com apoio de IA.
 
 [Acessar o sistema](https://acervo-ux-governanca.dr-alexcerqueira.chatgpt.site) — sujeito às permissões de acesso da instância no ChatGPT Sites.
